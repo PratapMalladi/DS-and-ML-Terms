@@ -1,2 +1,1 @@
-# DS-and-ML-Terms
-Glossary of Data science and Machine Learning Terms
+DS/ML/AI reference Materials.
